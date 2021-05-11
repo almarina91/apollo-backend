@@ -1,0 +1,4636 @@
+[
+    {
+        "englishName": "0 to 2km",
+        "italianName": "da 0 a 2km",
+        "frenchName": "de 0 à 2km",
+        "serbianName": "od 0 do 2km",
+        "dutchName": "van 0 tot 2km",
+        "days": [
+            {
+                "englishName": "Week 1, Day 1",
+                "italianName": "Settimana 1, Giorno 1",
+                "frenchName": "Semaine 1, Jour 1",
+                "serbianName": "Prva nedelja, dan 1",
+                "dutchName": "Week 1, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 2",
+                "italianName": "Settimana 1, Giorno 2",
+                "frenchName": "Semaine 1, Jour 2",
+                "serbianName": "Prva nedelja, dan 2",
+                "dutchName": "Week 1, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 3",
+                "italianName": "Settimana 1, Giorno 3",
+                "frenchName": "Semaine 1, Jour 3",
+                "serbianName": "Prva nedelja, dan 3",
+                "dutchName": "Week 1, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 1",
+                "italianName": "Settimana 2, Giorno 1",
+                "frenchName": "Semaine 2, Jour 1",
+                "serbianName": "Druga nedelja, dan 1",
+                "dutchName": "Week 2, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 2",
+                "italianName": "Settimana 2, Giorno 2",
+                "frenchName": "Semaine 2, Jour 2",
+                "serbianName": "Druga nedelja, dan 2",
+                "dutchName": "Week 2, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 3",
+                "italianName": "Settimana 2, Giorno 3",
+                "frenchName": "Semaine 2, Jour 3",
+                "serbianName": "Druga nedelja, dan 3",
+                "dutchName": "Week 2, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 1",
+                "italianName": "Settimana 3, Giorno 1",
+                "frenchName": "Semaine 3, Jour 1",
+                "serbianName": "Treca nedelja, dan 1",
+                "dutchName": "Week 3, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 2",
+                "italianName": "Settimana 3, Giorno 2",
+                "frenchName": "Semaine 3, Jour 2",
+                "serbianName": "Treca nedelja, dan 2",
+                "dutchName": "Week 3, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 3",
+                "italianName": "Settimana 3, Giorno 3",
+                "frenchName": "Semaine 3, Jour 3",
+                "serbianName": "Treca nedelja, dan 3",
+                "dutchName": "Week 3, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 1",
+                "italianName": "Settimana 4, Giorno 1",
+                "frenchName": "Semaine 4, Jour 1",
+                "serbianName": "Cetvrta nedelja, dan 1",
+                "dutchName": "Week 4, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 2",
+                "italianName": "Settimana 4, Giorno 2",
+                "frenchName": "Semaine 4, Jour 2",
+                "serbianName": "Cetvrta nedelja, dan 2",
+                "dutchName": "Week 4, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 3",
+                "italianName": "Settimana 4, Giorno 3",
+                "frenchName": "Semaine 4, Jour 3",
+                "serbianName": "Cetvrta nedelja, dan 3",
+                "dutchName": "Week 4, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 1",
+                "italianName": "Settimana 5, Giorno 1",
+                "frenchName": "Semaine 5, Jour 1",
+                "serbianName": "Peta nedelja, dan 1",
+                "dutchName": "Week 5, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 2",
+                "italianName": "Settimana 5, Giorno 2",
+                "frenchName": "Semaine 5, Jour 2",
+                "serbianName": "Peta nedelja, dan 2",
+                "dutchName": "Week 5, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 3",
+                "italianName": "Settimana 5, Giorno 3",
+                "frenchName": "Semaine 5, Jour 3",
+                "serbianName": "Peta nedelja, dan 3",
+                "dutchName": "Week 5, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 1",
+                "italianName": "Settimana 6, Giorno 1",
+                "frenchName": "Semaine 6, Jour 1",
+                "serbianName": "Sesta nedelja, dan 1",
+                "dutchName": "Week 6, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 840
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "englishName": "0 to 5km",
+        "italianName": "da 0 a 5km",
+        "frenchName": "de 0 à 5km",
+        "serbianName": "od 0 do 5km",
+        "dutchName": "van 0 tot 5km",
+        "days": [
+            {
+                "englishName": "Week 1, Day 1",
+                "italianName": "Settimana 1, Giorno 1",
+                "frenchName": "Semaine 1, Jour 1",
+                "serbianName": "Prva nedelja, dan 1",
+                "dutchName": "Week 1, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 2",
+                "italianName": "Settimana 1, Giorno 2",
+                "frenchName": "Semaine 1, Jour 2",
+                "serbianName": "Prva nedelja, dan 2",
+                "dutchName": "Week 1, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 3",
+                "italianName": "Settimana 1, Giorno 3",
+                "frenchName": "Semaine 1, Jour 3",
+                "serbianName": "Prva nedelja, dan 3",
+                "dutchName": "Week 1, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 1",
+                "italianName": "Settimana 2, Giorno 1",
+                "frenchName": "Semaine 2, Jour 1",
+                "serbianName": "Druga nedelja, dan 1",
+                "dutchName": "Week 2, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 2",
+                "italianName": "Settimana 2, Giorno 2",
+                "frenchName": "Semaine 2, Jour 2",
+                "serbianName": "Druga nedelja, dan 2",
+                "dutchName": "Week 2, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 3",
+                "italianName": "Settimana 2, Giorno 3",
+                "frenchName": "Semaine 2, Jour 3",
+                "serbianName": "Druga nedelja, dan 3",
+                "dutchName": "Week 2, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 1",
+                "italianName": "Settimana 3, Giorno 1",
+                "frenchName": "Semaine 3, Jour 1",
+                "serbianName": "Treca nedelja, dan 1",
+                "dutchName": "Week 3, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 2",
+                "italianName": "Settimana 3, Giorno 2",
+                "frenchName": "Semaine 3, Jour 2",
+                "serbianName": "Treca nedelja, dan 2",
+                "dutchName": "Week 3, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 3",
+                "italianName": "Settimana 3, Giorno 3",
+                "frenchName": "Semaine 3, Jour 3",
+                "serbianName": "Treca nedelja, dan 3",
+                "dutchName": "Week 3, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 1",
+                "italianName": "Settimana 4, Giorno 1",
+                "frenchName": "Semaine 4, Jour 1",
+                "serbianName": "Cetvrta nedelja, dan 1",
+                "dutchName": "Week 4, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 2",
+                "italianName": "Settimana 4, Giorno 2",
+                "frenchName": "Semaine 4, Jour 2",
+                "serbianName": "Cetvrta nedelja, dan 2",
+                "dutchName": "Week 4, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 3",
+                "italianName": "Settimana 4, Giorno 3",
+                "frenchName": "Semaine 4, Jour 3",
+                "serbianName": "Cetvrta nedelja, dan 3",
+                "dutchName": "Week 4, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 1",
+                "italianName": "Settimana 5, Giorno 1",
+                "frenchName": "Semaine 5, Jour 1",
+                "serbianName": "Peta nedelja, dan 1",
+                "dutchName": "Week 5, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 2",
+                "italianName": "Settimana 5, Giorno 2",
+                "frenchName": "Semaine 5, Jour 2",
+                "serbianName": "Peta nedelja, dan 2",
+                "dutchName": "Week 5, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 3",
+                "italianName": "Settimana 5, Giorno 3",
+                "frenchName": "Semaine 5, Jour 3",
+                "serbianName": "Peta nedelja, dan 3",
+                "dutchName": "Week 5, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 1",
+                "italianName": "Settimana 6, Giorno 1",
+                "frenchName": "Semaine 6, Jour 1",
+                "serbianName": "Sesta nedelja, dan 1",
+                "dutchName": "Week 6, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 2",
+                "italianName": "Settimana 6, Giorno 2",
+                "frenchName": "Semaine 6, Jour 2",
+                "serbianName": "Sesta nedelja, dan 2",
+                "dutchName": "Week 6, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 3",
+                "italianName": "Settimana 6, Giorno 3",
+                "frenchName": "Semaine 6, Jour 3",
+                "serbianName": "Sesta nedelja, dan 3",
+                "dutchName": "Week 6, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 7, Day 1",
+                "italianName": "Settimana 7, Giorno 1",
+                "frenchName": "Semaine 7, Jour 1",
+                "serbianName": "Sedma nedelja, dan 1",
+                "dutchName": "Week 7, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 7, Day 2",
+                "italianName": "Settimana 7, Giorno 2",
+                "frenchName": "Semaine 7, Jour 2",
+                "serbianName": "Sedma nedelja, dan 2",
+                "dutchName": "Week 7, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 7, Day 3",
+                "italianName": "Settimana 7, Giorno 3",
+                "frenchName": "Semaine 7, Jour 3",
+                "serbianName": "Sedma nedelja, dan 3",
+                "dutchName": "Week 7, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 8, Day 1",
+                "italianName": "Settimana 8, Giorno 1",
+                "frenchName": "Semaine 8, Jour 1",
+                "serbianName": "Osma nedelja, dan 1",
+                "dutchName": "Week 8, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1680
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 8, Day 2",
+                "italianName": "Settimana 8, Giorno 2",
+                "frenchName": "Semaine 8, Jour 2",
+                "serbianName": "Osma nedelja, dan 2",
+                "dutchName": "Week 8, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 8, Day 3",
+                "italianName": "Settimana 8, Giorno 3",
+                "frenchName": "Semaine 8, Jour 3",
+                "serbianName": "Osma nedelja, dan 3",
+                "dutchName": "Week 8, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 2100
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "englishName": "5 to 10km",
+        "italianName": "da 5 a 10km",
+        "frenchName": "de 5 à 10km",
+        "serbianName": "od 5 do 10km",
+        "dutchName": "van 5 tot 10km",
+        "days": [
+            {
+                "englishName": "Week 1, Day 1",
+                "italianName": "Settimana 1, Giorno 1",
+                "frenchName": "Semaine 1, Jour 1",
+                "serbianName": "Prva nedelja, dan 1",
+                "dutchName": "Week 1, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 2",
+                "italianName": "Settimana 1, Giorno 2",
+                "frenchName": "Semaine 1, Jour 2",
+                "serbianName": "Prva nedelja, dan 2",
+                "dutchName": "Week 1, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 3",
+                "italianName": "Settimana 1, Giorno 3",
+                "frenchName": "Semaine 1, Jour 3",
+                "serbianName": "Prva nedelja, dan 3",
+                "dutchName": "Week 1, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 1",
+                "italianName": "Settimana 2, Giorno 1",
+                "frenchName": "Semaine 2, Jour 1",
+                "serbianName": "Druga nedelja, dan 1",
+                "dutchName": "Week 2, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 2",
+                "italianName": "Settimana 2, Giorno 2",
+                "frenchName": "Semaine 2, Jour 2",
+                "serbianName": "Druga nedelja, dan 2",
+                "dutchName": "Week 2, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 3",
+                "italianName": "Settimana 2, Giorno 3",
+                "frenchName": "Semaine 2, Jour 3",
+                "serbianName": "Druga nedelja, dan 3",
+                "dutchName": "Week 2, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 1",
+                "italianName": "Settimana 3, Giorno 1",
+                "frenchName": "Semaine 3, Jour 1",
+                "serbianName": "Treca nedelja, dan 1",
+                "dutchName": "Week 3, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 2",
+                "italianName": "Settimana 3, Giorno 2",
+                "frenchName": "Semaine 3, Jour 2",
+                "serbianName": "Treca nedelja, dan 2",
+                "dutchName": "Week 3, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 3",
+                "italianName": "Settimana 3, Giorno 3",
+                "frenchName": "Semaine 3, Jour 3",
+                "serbianName": "Treca nedelja, dan 3",
+                "dutchName": "Week 3, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 1",
+                "italianName": "Settimana 4, Giorno 1",
+                "frenchName": "Semaine 4, Jour 1",
+                "serbianName": "Cetvrta nedelja, dan 1",
+                "dutchName": "Week 4, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 2",
+                "italianName": "Settimana 4, Giorno 2",
+                "frenchName": "Semaine 4, Jour 2",
+                "serbianName": "Cetvrta nedelja, dan 2",
+                "dutchName": "Week 4, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 3",
+                "italianName": "Settimana 4, Giorno 3",
+                "frenchName": "Semaine 4, Jour 3",
+                "serbianName": "Cetvrta nedelja, dan 3",
+                "dutchName": "Week 4, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 1",
+                "italianName": "Settimana 5, Giorno 1",
+                "frenchName": "Semaine 5, Jour 1",
+                "serbianName": "Peta nedelja, dan 1",
+                "dutchName": "Week 5, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 2400
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 2",
+                "italianName": "Settimana 5, Giorno 2",
+                "frenchName": "Semaine 5, Jour 2",
+                "serbianName": "Peta nedelja, dan 2",
+                "dutchName": "Week 5, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 2400
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 3",
+                "italianName": "Settimana 5, Giorno 3",
+                "frenchName": "Semaine 5, Jour 3",
+                "serbianName": "Peta nedelja, dan 3",
+                "dutchName": "Week 5, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 2400
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 1",
+                "italianName": "Settimana 6, Giorno 1",
+                "frenchName": "Semaine 6, Jour 1",
+                "serbianName": "Sesta nedelja, dan 1",
+                "dutchName": "Week 6, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 3000
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 2",
+                "italianName": "Settimana 6, Giorno 2",
+                "frenchName": "Semaine 6, Jour 2",
+                "serbianName": "Sesta nedelja, dan 2",
+                "dutchName": "Week 6, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 3300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 3",
+                "italianName": "Settimana 6, Giorno 3",
+                "frenchName": "Semaine 6, Jour 3",
+                "serbianName": "Sesta nedelja, dan 3",
+                "dutchName": "Week 6, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 3600
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "englishName": "Weight Loss: Level 1",
+        "italianName": "Perdita di peso: livello 1",
+        "frenchName": "Perte de poids: niveau 1",
+        "serbianName": "Gubitak tezine: nivo 1",
+        "dutchName": "Gewichtsverlies: niveau 1",
+        "days": [
+            {
+                "englishName": "Week 1, Day 1",
+                "italianName": "Settimana 1, Giorno 1",
+                "frenchName": "Semaine 1, Jour 1",
+                "serbianName": "Prva nedelja, dan 1",
+                "dutchName": "Week 1, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 2",
+                "italianName": "Settimana 1, Giorno 2",
+                "frenchName": "Semaine 1, Jour 2",
+                "serbianName": "Prva nedelja, dan 2",
+                "dutchName": "Week 1, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 30
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 3",
+                "italianName": "Settimana 1, Giorno 3",
+                "frenchName": "Semaine 1, Jour 3",
+                "serbianName": "Prva nedelja, dan 3",
+                "dutchName": "Week 1, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 1",
+                "italianName": "Settimana 2, Giorno 1",
+                "frenchName": "Semaine 2, Jour 1",
+                "serbianName": "Druga nedelja, dan 1",
+                "dutchName": "Week 2, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 2",
+                "italianName": "Settimana 2, Giorno 2",
+                "frenchName": "Semaine 2, Jour 2",
+                "serbianName": "Druga nedelja, dan 2",
+                "dutchName": "Week 2, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 3",
+                "italianName": "Settimana 2, Giorno 3",
+                "frenchName": "Semaine 2, Jour 3",
+                "serbianName": "Druga nedelja, dan 3",
+                "dutchName": "Week 2, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 1",
+                "italianName": "Settimana 3, Giorno 1",
+                "frenchName": "Semaine 3, Jour 1",
+                "serbianName": "Treca nedelja, dan 1",
+                "dutchName": "Week 3, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 2",
+                "italianName": "Settimana 3, Giorno 2",
+                "frenchName": "Semaine 3, Jour 2",
+                "serbianName": "Treca nedelja, dan 2",
+                "dutchName": "Week 3, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 90
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 150
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 3",
+                "italianName": "Settimana 3, Giorno 3",
+                "frenchName": "Semaine 3, Jour 3",
+                "serbianName": "Treca nedelja, dan 3",
+                "dutchName": "Week 3, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 1",
+                "italianName": "Settimana 4, Giorno 1",
+                "frenchName": "Semaine 4, Jour 1",
+                "serbianName": "Cetvrta nedelja, dan 1",
+                "dutchName": "Week 4, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 2",
+                "italianName": "Settimana 4, Giorno 2",
+                "frenchName": "Semaine 4, Jour 2",
+                "serbianName": "Cetvrta nedelja, dan 2",
+                "dutchName": "Week 4, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 3",
+                "italianName": "Settimana 4, Giorno 3",
+                "frenchName": "Semaine 4, Jour 3",
+                "serbianName": "Cetvrta nedelja, dan 3",
+                "dutchName": "Week 4, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 1",
+                "italianName": "Settimana 5, Giorno 1",
+                "frenchName": "Semaine 5, Jour 1",
+                "serbianName": "Peta nedelja, dan 1",
+                "dutchName": "Week 5, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 2",
+                "italianName": "Settimana 5, Giorno 2",
+                "frenchName": "Semaine 5, Jour 2",
+                "serbianName": "Peta nedelja, dan 2",
+                "dutchName": "Week 5, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 3",
+                "italianName": "Settimana 5, Giorno 3",
+                "frenchName": "Semaine 5, Jour 3",
+                "serbianName": "Peta nedelja, dan 3",
+                "dutchName": "Week 5, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 1",
+                "italianName": "Settimana 6, Giorno 1",
+                "frenchName": "Semaine 6, Jour 1",
+                "serbianName": "Sesta nedelja, dan 1",
+                "dutchName": "Week 6, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 2",
+                "italianName": "Settimana 6, Giorno 2",
+                "frenchName": "Semaine 6, Jour 2",
+                "serbianName": "Sesta nedelja, dan 2",
+                "dutchName": "Week 6, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 240
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 3",
+                "italianName": "Settimana 6, Giorno 3",
+                "frenchName": "Semaine 6, Jour 3",
+                "serbianName": "Sesta nedelja, dan 3",
+                "dutchName": "Week 6, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "englishName": "Weight Loss: Level 2",
+        "italianName": "Perdita di peso: livello 2",
+        "frenchName": "Perte de poids: niveau 2",
+        "serbianName": "Gubitak tezine: nivo 2",
+        "dutchName": "Gewichtsverlies: niveau 2",
+        "days": [
+            {
+                "englishName": "Week 1, Day 1",
+                "italianName": "Settimana 1, Giorno 1",
+                "frenchName": "Semaine 1, Jour 1",
+                "serbianName": "Prva nedelja, dan 1",
+                "dutchName": "Week 1, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 2",
+                "italianName": "Settimana 1, Giorno 2",
+                "frenchName": "Semaine 1, Jour 2",
+                "serbianName": "Prva nedelja, dan 2",
+                "dutchName": "Week 1, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 3",
+                "italianName": "Settimana 1, Giorno 3",
+                "frenchName": "Semaine 1, Jour 3",
+                "serbianName": "Prva nedelja, dan 3",
+                "dutchName": "Week 1, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 1",
+                "italianName": "Settimana 2, Giorno 1",
+                "frenchName": "Semaine 2, Jour 1",
+                "serbianName": "Druga nedelja, dan 1",
+                "dutchName": "Week 2, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 2",
+                "italianName": "Settimana 2, Giorno 2",
+                "frenchName": "Semaine 2, Jour 2",
+                "serbianName": "Druga nedelja, dan 2",
+                "dutchName": "Week 2, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 3",
+                "italianName": "Settimana 2, Giorno 3",
+                "frenchName": "Semaine 2, Jour 3",
+                "serbianName": "Druga nedelja, dan 3",
+                "dutchName": "Week 2, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 1",
+                "italianName": "Settimana 3, Giorno 1",
+                "frenchName": "Semaine 3, Jour 1",
+                "serbianName": "Treca nedelja, dan 1",
+                "dutchName": "Week 3, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 2",
+                "italianName": "Settimana 3, Giorno 2",
+                "frenchName": "Semaine 3, Jour 2",
+                "serbianName": "Treca nedelja, dan 2",
+                "dutchName": "Week 3, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 3",
+                "italianName": "Settimana 3, Giorno 3",
+                "frenchName": "Semaine 3, Jour 3",
+                "serbianName": "Treca nedelja, dan 3",
+                "dutchName": "Week 3, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 1",
+                "italianName": "Settimana 4, Giorno 1",
+                "frenchName": "Semaine 4, Jour 1",
+                "serbianName": "Cetvrta nedelja, dan 1",
+                "dutchName": "Week 4, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 2",
+                "italianName": "Settimana 4, Giorno 2",
+                "frenchName": "Semaine 4, Jour 2",
+                "serbianName": "Cetvrta nedelja, dan 2",
+                "dutchName": "Week 4, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 3",
+                "italianName": "Settimana 4, Giorno 3",
+                "frenchName": "Semaine 4, Jour 3",
+                "serbianName": "Cetvrta nedelja, dan 3",
+                "dutchName": "Week 4, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 1",
+                "italianName": "Settimana 5, Giorno 1",
+                "frenchName": "Semaine 5, Jour 1",
+                "serbianName": "Peta nedelja, dan 1",
+                "dutchName": "Week 5, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 2",
+                "italianName": "Settimana 5, Giorno 2",
+                "frenchName": "Semaine 5, Jour 2",
+                "serbianName": "Peta nedelja, dan 2",
+                "dutchName": "Week 5, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 360
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 3",
+                "italianName": "Settimana 5, Giorno 3",
+                "frenchName": "Semaine 5, Jour 3",
+                "serbianName": "Peta nedelja, dan 3",
+                "dutchName": "Week 5, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 1",
+                "italianName": "Settimana 6, Giorno 1",
+                "frenchName": "Semaine 6, Jour 1",
+                "serbianName": "Sesta nedelja, dan 1",
+                "dutchName": "Week 6, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 960
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 2",
+                "italianName": "Settimana 6, Giorno 2",
+                "frenchName": "Semaine 6, Jour 2",
+                "serbianName": "Sesta nedelja, dan 2",
+                "dutchName": "Week 6, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 960
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 3",
+                "italianName": "Settimana 6, Giorno 3",
+                "frenchName": "Semaine 6, Jour 3",
+                "serbianName": "Sesta nedelja, dan 3",
+                "dutchName": "Week 6, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 960
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 420
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "englishName": "Weight Loss: Level 3",
+        "italianName": "Perdita di peso: livello 3",
+        "frenchName": "Perte de poids: niveau 3",
+        "serbianName": "Gubitak tezine: nivo 3",
+        "dutchName": "Gewichtsverlies: niveau 3",
+        "days": [
+            {
+                "englishName": "Week 1, Day 1",
+                "italianName": "Settimana 1, Giorno 1",
+                "frenchName": "Semaine 1, Jour 1",
+                "serbianName": "Prva nedelja, dan 1",
+                "dutchName": "Week 1, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1080
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 960
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 2",
+                "italianName": "Settimana 1, Giorno 2",
+                "frenchName": "Semaine 1, Jour 2",
+                "serbianName": "Prva nedelja, dan 2",
+                "dutchName": "Week 1, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 840
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 1, Day 3",
+                "italianName": "Settimana 1, Giorno 3",
+                "frenchName": "Semaine 1, Jour 3",
+                "serbianName": "Prva nedelja, dan 3",
+                "dutchName": "Week 1, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 840
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 1",
+                "italianName": "Settimana 2, Giorno 1",
+                "frenchName": "Semaine 2, Jour 1",
+                "serbianName": "Druga nedelja, dan 1",
+                "dutchName": "Week 2, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 2",
+                "italianName": "Settimana 2, Giorno 2",
+                "frenchName": "Semaine 2, Jour 2",
+                "serbianName": "Druga nedelja, dan 2",
+                "dutchName": "Week 2, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 900
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 60
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 2, Day 3",
+                "italianName": "Settimana 2, Giorno 3",
+                "frenchName": "Semaine 2, Jour 3",
+                "serbianName": "Druga nedelja, dan 3",
+                "dutchName": "Week 2, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 1",
+                "italianName": "Settimana 3, Giorno 1",
+                "frenchName": "Semaine 3, Jour 1",
+                "serbianName": "Treca nedelja, dan 1",
+                "dutchName": "Week 3, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 2",
+                "italianName": "Settimana 3, Giorno 2",
+                "frenchName": "Semaine 3, Jour 2",
+                "serbianName": "Treca nedelja, dan 2",
+                "dutchName": "Week 3, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1300
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 3, Day 3",
+                "italianName": "Settimana 3, Giorno 3",
+                "frenchName": "Semaine 3, Jour 3",
+                "serbianName": "Treca nedelja, dan 3",
+                "dutchName": "Week 3, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 1",
+                "italianName": "Settimana 4, Giorno 1",
+                "frenchName": "Semaine 4, Jour 1",
+                "serbianName": "Cetvrta nedelja, dan 1",
+                "dutchName": "Week 4, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 720
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 2",
+                "italianName": "Settimana 4, Giorno 2",
+                "frenchName": "Semaine 4, Jour 2",
+                "serbianName": "Cetvrta nedelja, dan 2",
+                "dutchName": "Week 4, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 4, Day 3",
+                "italianName": "Settimana 4, Giorno 3",
+                "frenchName": "Semaine 4, Jour 3",
+                "serbianName": "Cetvrta nedelja, dan 3",
+                "dutchName": "Week 4, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 540
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 1",
+                "italianName": "Settimana 5, Giorno 1",
+                "frenchName": "Semaine 5, Jour 1",
+                "serbianName": "Petak nedelja, dan 1",
+                "dutchName": "Week 5, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 2",
+                "italianName": "Settimana 5, Giorno 2",
+                "frenchName": "Semaine 5, Jour 2",
+                "serbianName": "Petak nedelja, dan 2",
+                "dutchName": "Week 5, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 5, Day 3",
+                "italianName": "Settimana 5, Giorno 3",
+                "frenchName": "Semaine 5, Jour 3",
+                "serbianName": "Petak nedelja, dan 3",
+                "dutchName": "Week 5, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1500
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 1",
+                "italianName": "Settimana 6, Giorno 1",
+                "frenchName": "Semaine 6, Jour 1",
+                "serbianName": "Sesta nedelja, dan 1",
+                "dutchName": "Week 6, Dag 1",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 1800
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 300
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 1200
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 180
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 2",
+                "italianName": "Settimana 6, Giorno 2",
+                "frenchName": "Semaine 6, Jour 2",
+                "serbianName": "Sesta nedelja, dan 2",
+                "dutchName": "Week 6, Dag 2",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            },
+            {
+                "englishName": "Week 6, Day 3",
+                "italianName": "Settimana 6, Giorno 3",
+                "frenchName": "Semaine 6, Jour 3",
+                "serbianName": "Sesta nedelja, dan 3",
+                "dutchName": "Week 6, Dag 3",
+                "calories" : 0,
+                "distance" : 0,
+                "isCompleted": false,
+                "intervals": [
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 600
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 60
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "run",
+                        "seconds" : 480
+                    },
+                    {
+                        "type" : "fast run",
+                        "seconds" : 120
+                    },
+                    {
+                        "type" : "walk",
+                        "seconds" : 120
+                    }
+                ]
+            }
+        ]
+    }
+]

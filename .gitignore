@@ -1,0 +1,5 @@
+/node_modules
+apollo-log.txt
+/config
+/.idea
+.DS_Store
