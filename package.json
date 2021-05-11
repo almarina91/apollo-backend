@@ -6,7 +6,7 @@
   "scripts": {
     "test": "env-cmd -f ./config/test.env jest --watchAll",
     "start": "node index.js",
-    "start-dev": "concurrently \"env-cmd -f ./config/dev.env nodemon index.js\" \"cd ../running-app-frontend && npm start\""
+    "start-dev": "concurrently \"env-cmd -f ./config/dev.env nodemon index.js\" \"cd ../apollo-frontend && npm start\""
   },
   "jest": {
     "testEnvironment": "node"
