@@ -15,6 +15,12 @@ const endpoint = '/plans';
 // getting all plans
 router.get(endpoint, async (req,res)=>{
     const plans = await Plan.find({});
+    function compare(a, b) {
+        if (a.orderNumber > b.orderNumber) return 1;
+        if (b.orderNumber > a.orderNumber) return -1;
+        return 0;
+    }
+    await plans.sort(compare);
     res.send(plans)
 })
 
