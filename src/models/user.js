@@ -2,7 +2,7 @@ const mongoose = require('mongoose');
 const validator = require('validator');
 const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
-const err = require('../utils/errors');
+const {ERROR} = require("../utils/enums");
 
 const userSchema = new mongoose.Schema({
     username: {
@@ -16,7 +16,7 @@ const userSchema = new mongoose.Schema({
         trim: true,
         validate(value){
             if (!validator.isStrongPassword(value)){
-                throw new Error ('please provide a stronger password of minimum 8 characters, at least 1 uppercase letter, 1 lowercase letter, 1 number and 1 symbol')
+                throw new Error (ERROR.strongerPassword)
             }
         }
     },
@@ -27,7 +27,7 @@ const userSchema = new mongoose.Schema({
         unique: true,
         validate(value){
             if (!validator.isEmail(value)){
-                throw new Error('invalid email')
+                throw new Error(ERROR.invalidEmail)
             }
         }
     },
@@ -70,11 +70,11 @@ userSchema.methods.toJSON = function() {
 userSchema.statics.findByCredentials = async function(email, password) {
     const user = await User.findOne({email});
     if(!user) {
-        throw new Error(err.unableToLogin)
+        throw new Error(ERROR.unableToLogin)
     }
     const isMatch = await bcrypt.compare(password, user.password);
     if(!isMatch){
-        throw new Error(err.unableToLogin)
+        throw new Error(ERROR.unableToLogin)
     }
     return user
 }

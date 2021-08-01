@@ -8,7 +8,7 @@ const auth = require('../middleware/auth');
 const admin = require('../middleware/admin');
 
 const log = require('../utils/log');
-const err = require('../utils/errors');
+const {STATUS_CODE, MESSAGE, ERROR} = require("../utils/enums");
 
 const endpoint = '/plans';
 
@@ -29,11 +29,11 @@ router.post(endpoint, auth, admin, async (req,res)=>{
     const plan = new Plan(req.body);
     try {
         await plan.save()
-        res.status(201).send(plan)
+        res.status(STATUS_CODE.created).send(plan)
     }
     catch (e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -82,10 +82,10 @@ router.post(`${endpoint}/json`, async (req, res)=>{
            })
            newPlan.save()
         })
-        res.send('successful!')
+        res.send(MESSAGE.success)
 
     } catch (e) {
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -93,10 +93,10 @@ router.post(`${endpoint}/json`, async (req, res)=>{
 router.patch(`${endpoint}/:id`, auth, admin, async(req, res)=>{
     try {
         const plan = await Plan.findByIdAndUpdate(req.params.id, req.body, {new:true, runValidators:true});
-        plan ? res.send(plan) : res.status(400).send(err.planNotFound)
+        plan ? res.send(plan) : res.status(400).send(ERROR.planNotFound)
     } catch (e) {
         await log(e)
-        res.status(400).send(e);
+        res.status(STATUS_CODE.badRequest).send(e);
     }
 })
 
@@ -104,10 +104,12 @@ router.patch(`${endpoint}/:id`, auth, admin, async(req, res)=>{
 router.delete(`${endpoint}/:id`, auth, admin, async (req, res)=>{
     try {
         const plan = await Plan.findByIdAndDelete(req.params.id);
-        plan ? res.status(200).send(plan) : res.status(400).send(err.planNotFound)
+        plan ?
+            res.status(STATUS_CODE.ok).send(plan) :
+            res.status(STATUS_CODE.badRequest).send(ERROR.planNotFound)
     } catch(e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 

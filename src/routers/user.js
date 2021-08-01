@@ -5,13 +5,15 @@ const admin = require('../middleware/admin');
 const User = require('../models/user');
 const UserDay = require('../models/user-day');
 const log = require('../utils/log');
-const err = require('../utils/errors');
-const endpoint = '/users';
+const err = require('../utils/enums.js');
+const {STATUS_CODE, ERROR} = require("../utils/enums");
 
+const endpoint = '/users';
+const allowedUpdates = ['username', 'password', 'email', 'language', 'weight', 'height'];
 
 // getting users info
 router.get(endpoint, auth, async (req,res)=>{
-    res.send(req.user)
+    res.status(STATUS_CODE.ok).send(req.user)
 })
 
 // sign up a new user
@@ -20,10 +22,10 @@ router.post(endpoint, async (req,res)=>{
     try {
         const token = await user.generateAuthToken()
         await user.save()
-        res.status(201).send({user,token})
+        res.status(STATUS_CODE.created).send({user,token})
     } catch (e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -35,7 +37,7 @@ router.post(`${endpoint}/login`, async(req,res)=>{
         res.send({user, token})
     } catch(e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -46,10 +48,10 @@ router.post(`${endpoint}/logout`, auth, async (req,res)=>{
             return token.token !== req.token
         })
         await req.user.save()
-        res.send()
+        res.status(STATUS_CODE.ok).send()
     } catch(e) {
         await log(e)
-        res.status(500).send(e);
+        res.status(STATUS_CODE.serverError).send(e);
     }
 })
 
@@ -58,57 +60,55 @@ router.post(`${endpoint}/logoutAll`, auth, async (req,res)=>{
     try {
         req.user.tokens = [];
         await req.user.save()
-        res.send()
+        res.status(STATUS_CODE.ok).send()
     } catch(e) {
         await log(e)
-        res.status(500).send()
+        res.status(STATUS_CODE.serverError).send()
     }
 })
 
 // update a user
 router.patch(`${endpoint}/me`, auth, async (req, res)=>{
     const updates = Object.keys(req.body);
-    const allowedUpdates = ['username', 'password', 'email', 'language', 'weight', 'height'];
     const isValidOperation = updates.every(update=>allowedUpdates.includes(update));
     if (!isValidOperation) {
-        return res.status(400).send(err.invalidUpdate)
+        return res.status(STATUS_CODE.badRequest).send(ERROR.invalidUpdate)
     }
     try {
         updates.forEach(update=>{
             req.user[update]=req.body[update]
         })
         await req.user.save()
-        res.send(req.user)
+        res.status(STATUS_CODE.ok).send(req.user)
     } catch (e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
 // admin getting all users
 router.get(`${endpoint}/usersList`, auth, admin,async (req,res)=>{
     const users = await User.find({});
-    res.send(users)
+    res.status(STATUS_CODE.ok).send(users)
 })
 
 // admin updates a user
 router.patch(`${endpoint}/:id`, auth, admin,  async(req, res)=>{
     const updates = Object.keys(req.body);
-    const allowedUpdates = ['username', 'password', 'email', 'language', 'weight', 'height'];
     const isValidOperation = updates.every(update=>allowedUpdates.includes(update));
     const user = await User.findById(req.params.id);
     if (!isValidOperation) {
-        return res.status(400).send(err.invalidUpdate)
+        return res.status(400).send(ERROR.invalidUpdate)
     }
     try {
         updates.forEach(update=>{
             user[update]=req.body[update]
         })
         await user.save()
-        res.send(user)
+        res.status(STATUS_CODE.ok).send(user)
     } catch (e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -117,10 +117,10 @@ router.delete(`${endpoint}/me`, auth, async(req, res)=>{
     try {
         await UserDay.getUserDaysAndRemove(req.user._id)
         await req.user.remove()
-        res.send(req.user)
+        res.status(STATUS_CODE.ok).send(req.user)
     } catch (e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -129,10 +129,10 @@ router.delete(`${endpoint}/:userID`, auth, admin, async(req, res)=>{
     try {
         await UserDay.getUserDaysAndRemove(req.params.userID)
         const user = await User.deleteOne({_id:req.params.userID})
-        res.send(user)
+        res.status(STATUS_CODE.ok).send(user)
     } catch (e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -141,10 +141,10 @@ router.post(`${endpoint}/finishedDay/:dayID`, auth, async(req,res)=>{
     try {
         const newRelation = new UserDay({userID:req.user._id, dayID:req.params.dayID})
         await newRelation.save()
-        res.status(201).send(newRelation)
+        res.status(STATUS_CODE.created).send(newRelation)
     } catch(e) {
         await log(e)
-        res.status(400).send(e)
+        res.status(STATUS_CODE.badRequest).send(e)
     }
 })
 
@@ -152,10 +152,10 @@ router.post(`${endpoint}/finishedDay/:dayID`, auth, async(req,res)=>{
 router.get(`${endpoint}/finishedDays`, auth, async(req,res)=>{
     try {
         const finishedDays = await UserDay.find({userID:req.user._id})
-        res.status(200).send(finishedDays)
+        res.status(STATUS_CODE.ok).send(finishedDays)
     } catch(e) {
         await log(e)
-        res.status(400).send()
+        res.status(STATUS_CODE.badRequest).send()
     }
 })
 
