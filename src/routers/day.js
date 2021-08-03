@@ -5,7 +5,12 @@ const Day = require('../models/day');
 
 const endpoint = '/days';
 
-// get all days for a plan
+/**
+ * Gets all days for a specific plan via planID.
+ * @const days - contains all days related to plan in db.
+ * @function compare - assists in sorting days
+ */
+
 router.get(`${endpoint}/:planID`, async (req,res)=>{
     const days = await Day.find({planID: req.params.planID});
     function compare(a, b) {

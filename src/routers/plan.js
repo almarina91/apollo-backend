@@ -12,7 +12,12 @@ const {STATUS_CODE, MESSAGE, ERROR} = require("../utils/enums");
 
 const endpoint = '/plans';
 
-// getting all plans
+/**
+ * Gets all plans.
+ * @const plans - contains all plans from db.
+ * @function compare - assists in sorting days
+ */
+
 router.get(endpoint, async (req,res)=>{
     const plans = await Plan.find({});
     function compare(a, b) {
@@ -24,7 +29,11 @@ router.get(endpoint, async (req,res)=>{
     res.send(plans)
 })
 
-// creating a new plan
+/**
+ * Creates a new plan.
+ * @const plan - creates a new plan based on request body.
+ */
+
 router.post(endpoint, auth, admin, async (req,res)=>{
     const plan = new Plan(req.body);
     try {
@@ -37,7 +46,18 @@ router.post(endpoint, auth, admin, async (req,res)=>{
     }
 })
 
-// loading plan from json file
+/**
+ * Loads a plan from a json file.
+ * @const data - imports data form a file.
+ * @const newPlanData - saves plan names in all languages.
+ * @const newPlan - creates a new plan.
+ * @const daysArray - array that contains all days for a plan.
+ * @const intervalsArray - array that contains all intervals for a day.
+ * @const orderNumberDays - helps keeping the days in order.
+ * @const newIntervalData - contains all data for a interval.
+ * @const newInterval - creates a new interval.
+ */
+
 router.post(`${endpoint}/json`, async (req, res)=>{
     const data = require('../data.json');
     try {
@@ -89,7 +109,11 @@ router.post(`${endpoint}/json`, async (req, res)=>{
     }
 })
 
-// update a plan
+/**
+ * Updates a plan.
+ * @const plan - finds a specific plan in db and updates it based on request body.
+ */
+
 router.patch(`${endpoint}/:id`, auth, admin, async(req, res)=>{
     try {
         const plan = await Plan.findByIdAndUpdate(req.params.id, req.body, {new:true, runValidators:true});
@@ -100,7 +124,11 @@ router.patch(`${endpoint}/:id`, auth, admin, async(req, res)=>{
     }
 })
 
-// delete a plan
+/**
+ * Deletes a plan.
+ * @const plan - finds a plan in db and removes it.
+ */
+
 router.delete(`${endpoint}/:id`, auth, admin, async (req, res)=>{
     try {
         const plan = await Plan.findByIdAndDelete(req.params.id);

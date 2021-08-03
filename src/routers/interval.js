@@ -5,7 +5,12 @@ const Interval = require('../models/interval');
 
 const endpoint = '/intervals';
 
-// get all intervals for a specific day
+/**
+ * Gets all intervals for a specific day.
+ * @let intervals - contains all intervals related to a day in db.
+ * @function compare - assists in sorting days
+ */
+
 router.get(`${endpoint}/:dayID`, async (req,res)=>{
     let intervals = await Interval.find({dayID:req.params.dayID});
     function compare(a, b) {
