@@ -8,7 +8,7 @@
 
 [View demo](https://almarina91apollo.github.io) *
 
-*please allow some time for server to respond, since the app is hosted on Heroku free tier.*
+*please allow some time for server to respond, since the app is hosted on Heroku free tier.
 
 
 <!-- ABOUT THE PROJECT -->
