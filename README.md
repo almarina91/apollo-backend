@@ -20,10 +20,10 @@ This app offers all the basic functionalities of a running app. If allowed, it a
 
 ### Built With
 
-* [MongoDB]()
-* [Express]()
-* [React]()
-* [Node.js]()
+* MongoDB
+* Express
+* React
+* Node.js
 
 
 
@@ -52,11 +52,11 @@ This is an example of how to list things you need to use the software and how to
    npm install
    ```
 3. Starting the development mode from apollo-backend folder
-  ```sh
+    ```sh
    npm start-dev
    ```
 4. Starting the production mode from apollo-backend folder
-  ```sh
+    ```sh
    npm start
    ```
 
