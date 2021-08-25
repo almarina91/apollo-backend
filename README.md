@@ -45,12 +45,20 @@ This is an example of how to list things you need to use the software and how to
 1. Clone the repo
    ```sh
    git clone https://github.com/almarina91/apollo-frontend.git
+   git clone https://github.com/almarina91/apollo-backend.git
    ```
-2. Install NPM packages
+2. Install NPM packages for frontend and backend separately using:
    ```sh
    npm install
    ```
-
+3. Starting the development mode from apollo-backend folder
+  ```sh
+   npm start-dev
+   ```
+4. Starting the production mode from apollo-backend folder
+  ```sh
+   npm start
+   ```
 
 
 <!-- USAGE EXAMPLES -->
@@ -62,7 +70,7 @@ The app is easy to use. A user has to select one of the provided running plans, 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/almarina91/apollo-frontend/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/almarina91/apollo-backend/issues) for a list of proposed features (and known issues).
 
 
 <!-- CONTRIBUTING -->
@@ -90,21 +98,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Marina Grujic - almarina91@gmail.com
 
-Project Link: [https://github.com/almarina91/apollo-frontend](https://github.com/almarina91/apollo-frontend)
+Project Link: [https://github.com/almarina91/apollo-frontend](https://github.com/almarina91/apollo-backend)
 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/almarina91/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/almarina91/apollo-frontend/graphs/contributors
+[contributors-url]: https://github.com/almarina91/apollo-backend/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/almarina91/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/almarina91/apollo-frontend/network/members
+[forks-url]: https://github.com/almarina91/apollo-backend/network/members
 [stars-shield]: https://img.shields.io/github/stars/almarina91/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/almarina91/apollo-frontend/stargazers
+[stars-url]: https://github.com/almarina91/apollo-backend/stargazers
 [issues-shield]: https://img.shields.io/github/issues/almarina91/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/almarina91/apollo-frontend/issues
+[issues-url]: https://github.com/almarina91/apollo-backend/issues
 [license-shield]: https://img.shields.io/github/license/almarina91/repo.svg?style=for-the-badge
-[license-url]: https://github.com/almarina91/apollo-frontend/blob/master/LICENSE.txt
+[license-url]: https://github.com/almarina91/apollo-backend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/almarina91
