@@ -4,7 +4,7 @@
 
 **Running App**
 
-[Explore the docs »](https://github.com/almarina91/apollo-frontend)
+[Explore the docs »](https://github.com/almarina91/apollo-backend)
 
 [View demo (*please allow some time for server to respond, since the app is hosted on Heroku free tier.*)](https://almarina91apollo.github.io)
 
@@ -98,7 +98,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Marina Grujic - almarina91@gmail.com
 
-Project Link: [https://github.com/almarina91/apollo-frontend](https://github.com/almarina91/apollo-backend)
+Project Link: [https://github.com/almarina91/apollo-backend](https://github.com/almarina91/apollo-backend)
 
 
 
